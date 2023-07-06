@@ -1,0 +1,58 @@
+header {
+    background-color: darkgray;
+    width: 100%;
+    height: 100px;
+    
+}
+
+#minisquare {
+    background-color: mediumturquoise;
+    width: 80px;
+    height: 80px;
+    position:absolute;
+    top: 17px;
+    left:20px;
+}
+
+#blue {
+    background-color: mediumturquoise;
+    width: 100%;
+    height: 100px;
+}
+
+#lightblue {
+    background-color: lightseagreen;
+    width: 100%;
+    height: 100px;
+}
+
+#green {
+    background-color: green;
+    width: 100%;
+    height: 100px;
+}
+
+#yellow {
+    background-color: yellowgreen;
+    width: 100%;
+    height: 100px;
+}
+
+#bubble {
+ color: white;
+ background-color: black;
+ position: fixed;
+ border-radius: 50%;
+ height: 40px;
+ width: 40px;
+ display:flex;
+justify-content:center ;
+align-items: center;
+right: 10px;
+bottom: 10px;
+}
+
+p {
+    margin-left: 200px;
+    margin-right: 200px;
+}
